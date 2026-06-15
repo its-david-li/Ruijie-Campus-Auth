@@ -1,4 +1,4 @@
-# 🚀 Ruijie Campus Auth Universal
+# 🚀 Ruijie Campus Auth 
 
 <div align="center">
 
